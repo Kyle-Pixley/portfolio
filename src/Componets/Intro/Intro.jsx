@@ -7,7 +7,7 @@ function intro() {
         <h1 id='name-banner'>Kyle Pixley</h1>
         <h2 id="job-title">Student</h2>
         <p id='intro-bio'>I build websites with my own two hands.</p>
-        <a href=''>About</a>
+        <a href='https://google.com'>About</a>
     </div>
   )
 }
