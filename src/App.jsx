@@ -2,6 +2,7 @@ import './App.css';
 import Nav from './Componets/Nav';
 import Intro from './Componets/Intro/Intro';
 import About from './Componets/About/About';
+import React from 'react';
 function App() {
   return (
     <div>
