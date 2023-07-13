@@ -1,0 +1,16 @@
+nav {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1em;
+    padding: 1em;
+    border-bottom: 2px solid #7699b6;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #7699b6;
+}
+
+.nav-link:hover {
+    color: #967e76;
+}

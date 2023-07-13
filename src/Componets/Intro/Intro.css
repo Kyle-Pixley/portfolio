@@ -1,0 +1,21 @@
+#intro-parent {
+    border: 1px solid black;
+    width: 45vw;
+}
+#name-banner {
+    font-size: 8vw;
+    /* border: 1px solid slateblue; */
+    text-align: center;
+    margin: 0;
+    margin-top: 8vw;
+}
+#job-title {
+    margin: 0;
+    text-align: center;
+}
+#intro-bio {
+    font-size: 2vw;
+    /* border: 1px solid salmon; */
+    margin: 0;
+    text-align: center;
+}

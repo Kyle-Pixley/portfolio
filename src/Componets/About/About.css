@@ -1,0 +1,9 @@
+#about {
+    border: 1px solid black;
+    
+}
+#about-content {
+    margin: 4em;
+    font-size: 1.7vw;
+    padding: 0;
+}
